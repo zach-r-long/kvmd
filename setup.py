@@ -68,10 +68,10 @@ def main() -> None:
     setup(
         name="kvmd",
         version="1.59",
-        url="https://github.com/pikvm/kvmd",
+        url="https://github.com/zach-r-long/kvmd",
         license="GPLv3",
-        author="Maxim Devaev",
-        author_email="mdevaev@gmail.com",
+        author="",
+        author_email="",
         description="The main Pi-KVM daemon",
         platforms="any",
 
